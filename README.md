@@ -6,9 +6,9 @@ Forked from [migueravila/Bento](https://github.com/migueravila/Bento)
 
 Edited files:
 - `config.js`
-- `assets/background.jpg`
+- `app.css`
+- `assets/background.jpg` from [Ashish Kumar Senapati](https://unsplash.com/photos/TR_ItdPx_D4)
 
 
 TODO: 
 - Setup API key from `https://openweathermap.org/`.
-- Edit colors: `app.css`
