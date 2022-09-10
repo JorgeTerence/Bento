@@ -8,7 +8,3 @@ Edited files:
 - `config.js`
 - `app.css`
 - `assets/background.jpg` from [Ashish Kumar Senapati](https://unsplash.com/photos/TR_ItdPx_D4)
-
-
-TODO: 
-- Setup API key from `https://openweathermap.org/`.
